@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "titulo": "Assistente de Logística",
+    "empresa": "CD LOG LTDA",
+    "local": "Ariquemes - RO",
+    "tipo": "CLT",
+    "nivel": "Júnior",
+    "salario": 2600,
+    "descricao": "Suporte nas operações de armazenagem, separação e expedição.",
+    "requisitos": [
+      "Pacote Office",
+      "Conhecimento em WMS",
+      "Boa comunicação"
+    ],
+    "publicadaEm": "2025-08-10",
+    "area": "Logística"
+  },
+  {
+    "id": 2,
+    "titulo": "Operador de Empilhadeira",
+    "empresa": "CD LOG LTDA",
+    "local": "Ariquemes - RO",
+    "tipo": "CLT",
+    "nivel": "Pleno",
+    "salario": 3200,
+    "descricao": "Operação segura de empilhadeiras e apoio no inventário.",
+    "requisitos": [
+      "NR-11 válida",
+      "Experiência com empilhadeira retrátil"
+    ],
+    "publicadaEm": "2025-08-05",
+    "area": "Operações"
+  },
+  {
+    "id": 3,
+    "titulo": "Analista de Dados",
+    "empresa": "TechWare",
+    "local": "Porto Velho - RO",
+    "tipo": "PJ",
+    "nivel": "Sênior",
+    "salario": 10000,
+    "descricao": "Modelagem de dados e criação de dashboards para logística.",
+    "requisitos": [
+      "SQL",
+      "Power BI",
+      "Python"
+    ],
+    "publicadaEm": "2025-07-29",
+    "area": "Tecnologia"
+  },
+  {
+    "id": 4,
+    "titulo": "Estagiário de Administração",
+    "empresa": "Comercial Norte",
+    "local": "Ji-Paraná - RO",
+    "tipo": "Estágio",
+    "nivel": "Trainee",
+    "salario": 1200,
+    "descricao": "Apoio em rotinas administrativas e atendimento.",
+    "requisitos": [
+      "Cursando Administração",
+      "Organização"
+    ],
+    "publicadaEm": "2025-08-12",
+    "area": "Administrativo"
+  }
+]
